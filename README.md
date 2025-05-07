@@ -1,5 +1,5 @@
 ## Enhancing Code Quality and Efficiency with ChatGPT
 
-#Tasks
+# Tasks:
 
 0. Debugging - Python Factorial
